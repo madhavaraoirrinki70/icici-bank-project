@@ -2,6 +2,10 @@
 .project
 *.sublime-*
 .DS_Store
+idea
+.project
+*.sublime-*
+.DS_Store
 *.seed
 *.log
 *.csv
