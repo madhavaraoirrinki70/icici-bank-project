@@ -3,6 +3,8 @@
 *.sublime-*
 .DS_Store
 *.seed
+*.seed
+*.seed
 *.log
 *.csv
 *.dat
